@@ -114,5 +114,6 @@ db.privileges_brands.insertOne({
     },
   },
   redirectUrl: "urbox-dev://WebviewScreen?url=LINK&bottomNavBar=true",
+  status: "active",
   priority: -1,
 });
